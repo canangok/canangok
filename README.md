@@ -1,4 +1,5 @@
 ### Hi there 👋
+<iframe src="https://giphy.com/embed/fAnzw6YK33jMwzp5wp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/platzi-stem-developer-programadora-fAnzw6YK33jMwzp5wp">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Canan</h1>
 <h3 align="center">A developer from Istanbul</h3>
 
