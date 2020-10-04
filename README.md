@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width = "30px">
+<img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="center" width = "200px">
 
 <h1 align="center">Hi 👋, I'm Canan</h1>
 <h3 align="center">A developer from Istanbul</h3>
