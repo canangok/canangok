@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canan</h1>
-<a href="#"><img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="center" width="400px"></a>
+<img src="https://camo.githubusercontent.com/2cc669dfc1dc43605ae43196aca8bd3e9ecdad6b/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f736f757263652e676966" alt="alttext" data-canonical-src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" style="max-width:100%;">
 <h3 align="center"></h3>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
