@@ -1,8 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Canan</h1>
-<img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="center" width = "500px">
+<img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="center" width = "500px" style="margin-left:100px;">
 <h3 align="center">A developer from Istanbul</h3>
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/canangok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="canangok" height="30" width="40" /></a>
