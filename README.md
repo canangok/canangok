@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canan</h1>
-<img src="https://camo.githubusercontent.com/" alt="alttext" data-canonical-src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" style="max-width:100%;">
-![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" style="max-width:100%;">
 <h3 align="center"></h3>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
