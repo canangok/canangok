@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canan</h1>
-<img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="center" width = "500px" style="margin-left:100px;">
-
+<img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="center" width="500px" style="margin-left:300px;">
 <h3 align="center">A developer from Istanbul</h3>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
