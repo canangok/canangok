@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canan</h1>
-<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" style="max-width:100%;">
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" style="max-width:50%;">
 <h3 align="center"></h3>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
